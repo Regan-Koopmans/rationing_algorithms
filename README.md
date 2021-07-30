@@ -1,3 +1,3 @@
-# Rationing Algorithms
+# Supply-Chain Algorithms
 
-Here are a few random resource allocation algorithms implemented in Prolog.
+Here are a few random logistics algorithms implemented in Prolog.
